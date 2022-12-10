@@ -1,0 +1,41 @@
+.post-detail {
+  padding: 0 10rem;
+}
+
+.post-detail__time {
+  text-align: right;
+  font-size: 1.4rem;
+  color: var(--text-color);
+}
+
+.post-detail__heading {
+  margin-bottom: 1rem;
+}
+
+.post-detail__heading-top {
+  padding: 6px 0;
+}
+
+.post-detail__heading-bottom {
+  padding: 1rem 0;
+  font-weight: 300;
+}
+
+.post-detail__img-wrapper {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.post-detail__text {
+  color: var(--text-color);
+  width: 100%;
+  text-align: left;
+  line-height: 1.6;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  text-rendering: optimizeSpeed;
+}
+
+.post-detail__author {
+  text-align: right;
+}
