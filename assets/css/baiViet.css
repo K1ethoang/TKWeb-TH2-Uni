@@ -29,7 +29,7 @@
 .post-detail__text {
   color: var(--text-color);
   width: 100%;
-  text-align: left;
+  text-align: justify;
   line-height: 1.6;
   font-size: 1.8rem;
   margin-bottom: 2rem;
